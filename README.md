@@ -34,7 +34,8 @@
   `public final class Aluno extends Pessoa` ou 
   `public final void exibirDados()`. Além disso atributos também poderão ser finais, retornando um erro caso a tentativa de sobrescrever, representa a declaração de uma constante.
 ### Week 9 - Interfaces
-A interface determina quais sao os métodos que obrigatoriamente devem ser declaros e implementados na classe, entretanto não define como eles devem ser implementados, apenas definir entradas e sainda, como uma especie de contrato entre a claasse e interface.
+A interface determina quais são os métodos que obrigatoriamente devem ser declaradoss e implementados na classe, entretanto não define como eles devem ser implementados, apenas definir entradas e sainda, como uma especie de contrato entre a classe e interface.
+Interface utiliza `Implements` e é um corpo dos métodos que vao ser usado
 
 ### Week 10 - Tratamento de Exceções
 
