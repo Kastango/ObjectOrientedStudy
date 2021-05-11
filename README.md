@@ -38,5 +38,16 @@ A interface determina quais são os métodos que obrigatoriamente devem ser decl
 Interface utiliza `Implements` e é um corpo dos métodos que vao ser usado
 
 ### Week 10 - Tratamento de Exceções
+É possível capturar vários tipos de exceção em um comando try...catch
+```JAVA
+try {
+// Código que pode gerar
+// uma exceção
+}
+catch (Exception e) {
+// Código para tratamento
+// da exceção gerada
+}
+```
 
 ### Week 11 - Java Colections
